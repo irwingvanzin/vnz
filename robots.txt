@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /enviar.php
+Disallow: /baixar-imagens.php
+
+Sitemap: https://vnzclimatizacao.com.br/sitemap.xml

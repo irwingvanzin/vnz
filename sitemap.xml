@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://vnzclimatizacao.com.br/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/hero-vrf.jpg</image:loc>
+      <image:title>Sistemas VRF instalados pela VNZ Climatização</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/servico-vrf.jpg</image:loc>
+      <image:title>Instalação de Sistemas VRF/VRV</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/servico-rooftop.jpg</image:loc>
+      <image:title>Self Contained e Rooftops</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/servico-pmoc.jpg</image:loc>
+      <image:title>Manutenção e PMOC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/servico-splits.jpg</image:loc>
+      <image:title>Splits Comerciais e Multi Splits</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/servico-ventilacao.jpg</image:loc>
+      <image:title>Ventilação e Exaustão</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/servico-projetos.jpg</image:loc>
+      <image:title>Desenvolvimento de Projetos de Climatização</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/cliente-tjrr.jpg</image:loc>
+      <image:title>Fórum Criminal de Boa Vista - Tribunal de Justiça de Roraima, cliente da VNZ Climatização</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/cliente-privilege.jpg</image:loc>
+      <image:title>Privilege Club Residence em Manaus, cliente da VNZ Climatização</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vnzclimatizacao.com.br/img/cliente-bramam.jpg</image:loc>
+      <image:title>Grupo Bramam - Cervejaria Ambev, cliente da VNZ Climatização</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://vnzclimatizacao.com.br/politica-de-privacidade.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
