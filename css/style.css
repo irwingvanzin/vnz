@@ -928,7 +928,8 @@ html:not(.movimento) .heroi-rolar { display: none; }
   .contato-grade { grid-template-columns: minmax(0, 1fr); }
   .rodape-grade { grid-template-columns: 1fr 1fr; }
   .sumario ol { columns: 1; }
-  .local-pino { left: 78%; top: 24%; }
+  .local-capa { padding-top: 100px; }
+  .local-pino { left: auto; right: clamp(22px, 4vw, 56px); top: clamp(22px, 4vw, 56px); margin: 0; }
 }
 @media (max-width: 560px) {
   .numeros { grid-template-columns: minmax(0, 1fr); gap: 0; }

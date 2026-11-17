@@ -215,9 +215,8 @@
     botaoMapa.addEventListener('click', function () {
       var local = $('#local');
       var quadro = document.createElement('iframe');
-      quadro.src = 'https://www.google.com/maps?q=VNZ+Climatiza%C3%A7%C3%A3o%2C+R.+Aristofano+Antony%2C+5+-+Petr%C3%B3polis%2C+Manaus+-+AM&z=16&hl=pt-BR&output=embed';
+      quadro.src = 'https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sVNZ+Climatiza%C3%A7%C3%A3o,+R.+Aristofano+Antony,+5+-+Petr%C3%B3polis,+Manaus+-+AM!6i16!3m1!1spt-BR!5m1!1spt-BR';
       quadro.title = 'Mapa com a localização da VNZ Climatização em Manaus';
-      quadro.loading = 'lazy';
       quadro.referrerPolicy = 'no-referrer-when-downgrade';
       quadro.setAttribute('allowfullscreen', '');
       local.innerHTML = '';
